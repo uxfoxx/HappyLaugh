@@ -164,7 +164,7 @@ hr.more_margin {
 
 /* General links color */
 a {
-  color: #978667;
+  color: #feb30c;
   text-decoration: none;
   transition: all 0.3s ease-in-out;
   outline: none;
@@ -177,7 +177,7 @@ a:hover, a:focus {
 
 .title small {
   text-transform: uppercase;
-  color: #978667;
+  color: #feb30c;
   letter-spacing: 3px;
   font-weight: 600;
   display: block;
@@ -200,7 +200,7 @@ a:hover, a:focus {
   text-align: center;
 }
 .title.white small {
-  color: #ebd7b2;
+  color: #feb30c;
   opacity: 0.8;
 }
 .title.white h2,
@@ -252,7 +252,7 @@ a.btn_1,
 .btn_1 {
   border: none;
   color: #fff;
-  background: #978667;
+  background: #feb30c;
   outline: none;
   cursor: pointer;
   display: inline-flex;
@@ -313,7 +313,7 @@ a.btn_1.outline:hover,
   margin: 0;
   width: 2.6rem;
   height: 2.6rem;
-  background: #978667;
+  background: #feb30c;
   border-radius: 1.625rem;
 }
 .btn_4.learn-more .circle .icon {
@@ -897,7 +897,7 @@ header.fixed_header.sticky .hamburger__inner::after {
   text-transform: uppercase;
 }
 .sidebar-navigation nav a.active {
-  color: #978667;
+  color: #feb30c;
 }
 .sidebar-navigation nav ul {
   list-style: none;
@@ -951,7 +951,7 @@ header.fixed_header.sticky .hamburger__inner::after {
 
 .sidebar-navigation nav ul li a:focus,
 .sidebar-navigation nav ul li a:hover {
-  color: #978667;
+  color: #feb30c;
 }
 
 .sidebar-navigation nav ul .active {
@@ -996,7 +996,7 @@ header.fixed_header.sticky .hamburger__inner::after {
   font-size: 18px;
   font-size: 1.125rem;
   font-weight: 600;
-  color: #978667;
+  color: #feb30c;
 }
 .phone_element a span em {
   color: #333;
@@ -1012,7 +1012,7 @@ header.fixed_header.sticky .hamburger__inner::after {
   margin-right: 15px;
   font-size: 30px;
   font-size: 1.875rem;
-  color: #978667;
+  color: #feb30c;
 }
 .phone_element.no_borders {
   padding-top: 5px;
@@ -1209,7 +1209,7 @@ ul > li:first-child .image {
   color: #fff;
 }
 .menu_panel_details a:hover {
-  color: #ebd7b2;
+  color: #feb30c;
 }
 
 /*-------- Menu v4 --------*/
@@ -1276,7 +1276,7 @@ ul > li:first-child .image {
     display: none !important;
   }
   .main-menu #mainNav ul li a:hover, .main-menu #mainNav ul li a.active {
-    color: #978667 !important;
+    color: #feb30c !important;
   }
   .main-menu #mainNav ul li a.btn_1 {
     background-color: transparent;
@@ -1343,7 +1343,7 @@ ul > li:first-child .image {
   }
   .submenu_version .main-menu ul ul {
     position: absolute;
-    border-top: 2px solid #978667;
+    border-top: 2px solid #feb30c;
     z-index: 1;
     visibility: hidden;
     left: 0;
@@ -1371,7 +1371,7 @@ ul > li:first-child .image {
     width: 0;
     position: absolute;
     pointer-events: none;
-    border-bottom-color: #978667;
+    border-bottom-color: #feb30c;
     border-width: 7px;
     margin-left: -7px;
   }
@@ -1410,14 +1410,14 @@ ul > li:first-child .image {
   }
   .submenu_version .main-menu ul ul li:hover > a {
     background-color: #f9f9f9;
-    color: #978667 !important;
+    color: #feb30c !important;
     padding-left: 20px;
     opacity: 1;
   }
 }
 @media only screen and (max-width: 991px) {
   .submenu_version .main-menu ul > li > a.show-submenu:hover:after {
-    color: #978667;
+    color: #feb30c;
   }
   .submenu_version .main-menu ul > li > a.show-submenu:after {
     transition: all 0.3s ease-in-out;
@@ -1451,7 +1451,7 @@ ul > li:first-child .image {
     display: block;
   }
   .submenu_version .main-menu #mainNav a.show-submenu.show_normal {
-    color: #978667 !important;
+    color: #feb30c !important;
   }
 }
 @media only screen and (max-width: 560px) {
@@ -1573,7 +1573,7 @@ img.jarallax-img.kenburns-2 {
   letter-spacing: 3px;
   display: block;
   margin: 0 0 10px 0;
-  color: #ebd7b2;
+  color: #feb30c;
   font-weight: 600;
 }
 .hero .wrapper h1,
@@ -1707,7 +1707,7 @@ footer ul {
   margin: 0 0 25px 0;
 }
 footer a {
-  color: #ebd7b2;
+  color: #feb30c;
 }
 footer a:hover {
   color: #fff;
@@ -1735,7 +1735,7 @@ footer .copy {
   color: #fff;
 }
 .social ul li a:hover {
-  color: #ebd7b2;
+  color: #feb30c;
 }
 .social ul li a i {
   font-size: 21px;
@@ -1945,7 +1945,7 @@ footer .copy {
   box-sizing: content-box;
   height: 50px;
   z-index: 1;
-  color: #978667;
+  color: #feb30c;
 }
 .booking_form input[type=submit] {
   transition: all 0.3s ease-in-out;
@@ -1969,7 +1969,7 @@ footer .copy {
   }
 }
 .booking_form input[type=submit]:hover {
-  background-color: #978667;
+  background-color: #feb30c;
   color: #fff;
 }
 
@@ -2146,7 +2146,7 @@ footer .copy {
 }
 .slide-text small {
   text-transform: uppercase;
-  color: #ebd7b2;
+  color: #feb30c;
   letter-spacing: 4px;
   font-weight: 600;
   display: block;
@@ -2297,7 +2297,7 @@ a.box_cat_rooms:hover .background-image {
 .box_facilities i {
   font-size: 62px;
   font-size: 3.875rem;
-  color: #978667;
+  color: #feb30c;
 }
 .box_facilities h3 {
   font-size: 21px;
@@ -2320,7 +2320,7 @@ a.box_cat_rooms:hover .background-image {
   color: #fff;
 }
 .box_facilities.white i {
-  color: #ebd7b2;
+  color: #feb30c;
 }
 @media (max-width: 767px) {
   .box_facilities.white {
@@ -2505,7 +2505,7 @@ a.box_cat_rooms:hover .background-image {
   margin-bottom: 0;
   font-size: 14px;
   font-size: 0.875rem;
-  color: #978667;
+  color: #feb30c;
 }
 .box_item_info h2 {
   font-size: 30px;
@@ -2532,7 +2532,7 @@ a.box_cat_rooms:hover .background-image {
   height: 36px;
   font-size: 30px;
   font-size: 1.875rem;
-  color: #978667;
+  color: #feb30c;
   margin-right: 15px;
 }
 @media (max-width: 767px) {
@@ -2665,7 +2665,7 @@ a.box_cat_rooms:hover .background-image {
   font-size: 34px;
   font-size: 2.125rem;
   margin-right: 15px;
-  color: #978667;
+  color: #feb30c;
 }
 
 .progress {
@@ -2674,7 +2674,7 @@ a.box_cat_rooms:hover .background-image {
 }
 
 .progress-bar {
-  background-color: #978667;
+  background-color: #feb30c;
   width: 1px;
   transition: all 0.8s ease;
   transition-delay: 1s;
@@ -2748,7 +2748,7 @@ a.box_cat_rooms:hover .background-image {
   font-weight: 600;
   font-size: 26px;
   font-size: 1.625rem;
-  color: #978667;
+  color: #feb30c;
 }
 .review_card .review_content .rating small {
   font-size: 12px;
@@ -2974,7 +2974,7 @@ a.box_contents em:before {
   height: 2px;
   content: "";
   transition: width 500ms ease;
-  background-color: #978667;
+  background-color: #feb30c;
 }
 
 a.box_contents:hover em:before {
@@ -3096,7 +3096,7 @@ a.box_contents:hover img {
 .contact_info ul li i {
   font-size: 36px;
   font-size: 2.25rem;
-  color: #978667;
+  color: #feb30c;
 }
 .contact_info ul li h4 {
   font-size: 21px;
@@ -3298,7 +3298,7 @@ a.box_contents:hover img {
 .tabs_menu .nav-link:hover,
 .tabs_menu .nav-link:focus {
   text-decoration: none;
-  color: #978667;
+  color: #feb30c;
 }
 .tabs_menu .nav-tabs .nav-link.disabled {
   color: #6c757d;
@@ -3526,7 +3526,7 @@ a.box_contents:hover img {
   }
 }
 #cookie-bar .cb-enable {
-  background: #978667;
+  background: #feb30c;
 }
 #cookie-bar .cb-enable:hover {
   background: #fff;
@@ -3778,7 +3778,7 @@ a.box_contents:hover img {
   color: #333;
 }
 .list_ok ul li:before {
-  color: #978667;
+  color: #feb30c;
   position: absolute;
   left: 0;
   top: -7px;
@@ -3974,7 +3974,7 @@ img.rounded-img {
   position: absolute;
   top: 8px;
   right: 15px;
-  color: #978667;
+  color: #feb30c;
 }
 
 .form-control {
@@ -4045,13 +4045,13 @@ textarea.form-control {
   transition: all 200ms linear;
 }
 .progress-wrap:hover::after {
-  color: #978667;
+  color: #feb30c;
 }
 .progress-wrap svg path {
   fill: none;
 }
 .progress-wrap svg.progress-circle path {
-  stroke: #978667;
+  stroke: #feb30c;
   stroke-width: 4;
   box-sizing: border-box;
   transition: all 200ms linear;

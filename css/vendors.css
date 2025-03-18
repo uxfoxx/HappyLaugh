@@ -756,7 +756,7 @@
 }
 .owl-prev i:hover,
 .owl-next i:hover {
-  color: #978667;
+  color: #feb30c;
 }
 
 .owl-prev.disabled i:hover,
@@ -1359,7 +1359,7 @@
 }
 
 .daterangepicker td.active, .daterangepicker td.active:hover {
-  background-color: #978667;
+  background-color: #feb30c;
   border-color: transparent;
   color: #fff;
 }
@@ -1621,8 +1621,8 @@
   border-color: border-color;
 }
 .nice-select:after {
-  border-bottom: 2px solid #978667;
-  border-right: 2px solid #978667;
+  border-bottom: 2px solid #feb30c;
+  border-right: 2px solid #feb30c;
   content: "";
   display: block;
   height: 8px;
